@@ -61,12 +61,12 @@ Here are some ideas to get you started:
 * [Quora](https://quora.com/)
 * [Reddit](https://reddit.com/)
 * [Stack exchange](https://Stackexchange.com/)
-  -->
+  
 
 ### 🌐 Check out my website:
 
 [![Personal Website](https://img.shields.io/badge/Solomon%20Belay-Portfolio-orange)](https://solomon-belay.vercel.app/)
-
+-->
 ---
 
 Feel free to fork, star, or reach out if you have any questions or just want to connect! 😊
