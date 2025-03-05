@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### I am a Software Engineering student  at `AASTU` And also  at `ALX` Online learning platform. `I learn by doing....`
 
-<!-- [![wakatime](https://wakatime.com/badge/user/34af7b01-c7bd-47a1-b409-c0cbf245d7cc.svg)](https://wakatime.com/@46aee6e0-0ac5-4e0f-8633-f5f0055bdd2b) -->
+<!-- [![wakatime](https://wakatime.com/badge/user/46aee6e0-0ac5-4e0f-8633-f5f0055bdd2b.svg)](https://wakatime.com/@46aee6e0-0ac5-4e0f-8633-f5f0055bdd2b).  -->
 
 - 🔭 I’m currently working on my coding skills.
 - 🔭 I’m currently working on **MERN Stack** using **TypeScript**🔥.
