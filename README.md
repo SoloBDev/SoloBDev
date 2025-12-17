@@ -19,7 +19,7 @@
   <a href="">
     <!-- <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/>  -->
     <img src="https://skillicons.dev/icons?i=react,nuxtjs,nextjs,js,ts,py,tailwind,nodejs,express" />
-      <img src="https://skillicons.dev/icons?i=,figma,firebase,flutter,dotnet,docker" />
+      <img src="https://skillicons.dev/icons?i=figma,firebase,flutter,dotnet,docker" />
   </a>
 </p>
 <br>
