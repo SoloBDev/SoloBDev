@@ -1,73 +1,38 @@
-<!--   
+<h2 align="start">Hey There👋  </h2>
 
-**sofiberry/SofiBerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 I'm available for website, mobile app, and full-stack development projects. <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+👯 I’m always open to collaborating on creative and innovative projects. <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=⌨+SoloBDev!&font=Fira%20Code&center=true&width=420&height=30&duration=4400&pause=10000">
+🤝 Looking for top-notch talent? You can hire me on Upwork [here](https://www.upwork.com/freelancers/~01bb2bca205f31c2d5). <br>
+
+💬 Feel free to reach out if you have any questions or need assistance.
+
+📖 Passionate about coding, design, science, and mind management. <br>
+
+<br>
+<p>
+<img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Tech Stack & Frameworks I've Worked With
+<br>
+<p align="start">
+  <a href="">
+    <!-- <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/>  -->
+    <img src="https://skillicons.dev/icons?i=react,nuxtjs,nextjs,js,ts,py,tailwind,nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=,figma,firebase,flutter,dotnet,docker" />
+  </a>
+</p>
+<br>
+<p align="start ">💻 Find Me On
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Solomon+Belay;I+Am+Passionate+About+Coding;I+Learn+By+Doing!&font=Fira%20Code&center=true&width=420&height=50&duration=4000&pause=1000">
+<p align="start">
+   <a href="https://www.upwork.com/freelancers/~01bb2bca205f31c2d5">
+     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>   </a>
+<!--       <a href="https://www.linkedin.com/in/bethelehem-mulugeta-0506a21a3/" target="_blank"> -->
+<!--     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  /> -->
+  </a>
+  <a href="https://github.com/solobdev">
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/solobdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" target="_blank"/>
+  </a>   
 </p>
-
-# Hi I'm Solomon.👋
-
-### I am a Software Engineering student  at `AASTU` And also  at `ALX` Online learning platform. `I learn by doing....`
-
-<!-- [![wakatime](https://wakatime.com/badge/user/46aee6e0-0ac5-4e0f-8633-f5f0055bdd2b.svg)](https://wakatime.com/@46aee6e0-0ac5-4e0f-8633-f5f0055bdd2b).  -->
-
-- 🔭 I’m currently working on my coding skills.
-- 🔭 I’m currently working on **MERN Stack** using **TypeScript**🔥.
-- 🌱 I’m always learning and exploring new technologies 🚀
-- 👯 I’m open to collaborate on Software Engineering projects.
-
----
-
-### 🚀 What I'm up to:
-
-- 🌐 Exploring the world of **MERN Stack development** and building scalable applications.
-
-- 📚 Learning and staying up-to-date with the ever-evolving tech landscape.
-
----
-
-# Contact 
-* [Telegram](https://t.me/Solo_mo_on) [@Solo_mo_on]
-* [Twitter](https://twitter.com/_solomonbelay) [@_solomonbelay]
-* [Email](mailto:solomon.belayu@gmail.com)  [solomon.belayu@gmail.com]
-
----
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solobdev&layout=compact)](https://github.com/sofiberry/github-readme-stats) -->
-
-<!--
-## QUESTION AND ANSWER WEBSITE 
-* [Stackoverflow](https://Stackoverflow.com/)
-* [GitHub](https://github.com/)
-* [Code project](https://codeproject.com/)
-* [Programmers heaven](https://programmersheaven.com/)
-* [Quora](https://quora.com/)
-* [Reddit](https://reddit.com/)
-* [Stack exchange](https://Stackexchange.com/)
-  
-
-### 🌐 Check out my website:
-
-[![Personal Website](https://img.shields.io/badge/Solomon%20Belay-Portfolio-orange)](https://solomon-belay.vercel.app/)
--->
----
-
-Feel free to fork, star, or reach out if you have any questions or just want to connect! 😊
-<!-- ![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiberry&show_icons=true&theme=radical) -->
